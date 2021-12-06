@@ -2,5 +2,10 @@
  * Главный файл стилей.
  * Все паршалы подключаются сюда.
  */
-
+@import './global_settings/global-reset';
+@import './global_settings/modern-normolize';
+@import './global_settings/global-sizing';
+@import './/partials/header';
+@import './/partials/main';
+@import './/partials/footer';
 // Стили для файла с примером HTML-фрагмента
