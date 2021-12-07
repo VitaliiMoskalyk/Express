@@ -26,5 +26,8 @@
 <symbol id="icon-Decor" viewBox="0 0 797 32">
 <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.9091" d="M794.182 2.909l-791.273 26.182h576.905"></path>
 </symbol>
+<symbol id="icon-DMCA" viewBox="0 0 111 32">
+<path d="M0 0h110.222v32h-110.222v-32z"></path>
+</symbol>
 </defs>
 </svg>
